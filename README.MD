@@ -68,5 +68,5 @@ Swagger UI
       description: the job id
 ```
 
-# Deploymet
+# Deployment
 The project is deployed on *Heroku*. The url is: http://jobs-api-node-express.herokuapp.com/
